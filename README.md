@@ -18,7 +18,7 @@ The target variable is a binary variable indicating whether or not the patient h
 
 Steps:
 
-1. Load the Pima Indians Diabetes Dataset.
+1. Load the Pima Indians Diabetes Dataset (available on https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
 2. Explore the dataset to gain insights and visualize the data.
 3. Preprocess the data by handling missing values, scaling the features, and splitting the data into training and testing sets.
 4. Build and train several machine learning models, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machines (SVM).
