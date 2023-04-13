@@ -23,4 +23,4 @@ Steps:
 3. Preprocess the data by handling missing values, scaling the features, and splitting the data into training and testing sets.
 4. Build and train several machine learning models, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machines (SVM).
 5. Evaluate the performance of each model using appropriate evaluation metrics, such as accuracy, precision, recall, and F1 score.
-6. Select the best-performing model (NEXT STEP: fine-tune model hyperparameters using techniques such as grid search and cross-validation).
+6. Select the best-performing model.
